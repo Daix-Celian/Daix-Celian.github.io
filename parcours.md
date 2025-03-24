@@ -8,17 +8,17 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
+`2025 – actuellement`
 **UNilasalle**
 
 Elève ingénieur en cycle pré-ingénieur
 * Cours : Système informatique / Maths / projet informatique
 
-`20XX – 20XX`
+`2024 – 2025`
 **Epitech** - Université à Lille
 * Cours : Cours de programation
 
-`20XX`
+`2024`
 Bac Spécialité maths et nsi, mention bien, au lycée Sacré Coeur
 
 ## Expériences
@@ -46,8 +46,8 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais :niveau B1
+* LV2 Espagnol : niveau B1
 
 Informatique
 * Visual Studio code
