@@ -9,17 +9,17 @@ download_cv: assets/docs/Template_CV.pdf
 ## Formation 
 
 `20XX – 20XX`
-**Nom de votre école**
+**UNilasalle**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en cycle pré-ingénieur
+* Cours : Système informatique / Maths / projet informatique
 
 `20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
+**Epitech** - Université à Lille
+* Cours : Cours de programation
 
 `20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+Bac Spécialité maths et nsi, mention bien, au lycée Sacré Coeur
 
 ## Expériences
 
@@ -50,18 +50,20 @@ Langues
 * LV2 à préciser : niveau à préciser (résultat d’examen)
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Visual Studio code
+* ENvironment Linux
+* Sony Vegas Pro
+* Gimp
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Certification PIX
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Escalade
 
-Loisirs 1
-* Description 
-* Description 
+Jeux vidéos
+
+création de contenu sur internet
+
+Course à pieds
