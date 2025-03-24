@@ -14,9 +14,9 @@ Elève ingénieur en formation-pré ingénieur
 
 Disponible en semaine à partir de 18h
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+Mail : daix.celianpro@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https://www.linkedin.com/in/célian-daix-196012349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Permis B, voiture
 
